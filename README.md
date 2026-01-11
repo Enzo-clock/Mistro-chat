@@ -65,4 +65,4 @@ Ce projet m’a permis de :
 
 - Gérer les dépendances et scripts avec npm
 
-## Merci d’avoir regardé 👀
+###### Merci d’avoir regardé 👀
